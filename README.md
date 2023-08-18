@@ -72,5 +72,3 @@ And thus, our cosmic tale reaches its celestial crescendo. This repository is yo
 
 With Cosmic Wonder,
 Amin Hashemi
-
-Dec 26, 2022
