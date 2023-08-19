@@ -1,4 +1,4 @@
-# 🚀 Angry Birds Space Simulation: Unleash the Bird's Cosmic Odyssey! 🐦🪐
+# 🚀 Angry Orbit: Space Dynamic Simulation 🐦🪐
 
 ![Simulation Demo](Graph.jpg)
 
